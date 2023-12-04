@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "222c4ed2-19c6-c74a-8af6-7c200ac311ae",
+    "title": "Documents Ph (2016)",
+    "description": "The documents PH include pharmaceutical reimbursements delivered by the hospital pharmacies to hospitalised or ambulatory patients, broken down by hospital, reimbursement category or pseudo-codes and CNK product code (unique national code).",
+    "publisher": "National Institute for Health and Disability Insurance",
+    "downloadURL": "https://github.com/healthfacts/distributions_nidhi_docph/blob/main/nidhi_docph_2016_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_nidhi_docph/blob/main/nidhi_docph_2016_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 113767862,
+    "modificationDate": "2023-11-22 17:39:29",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://github.com/healthfacts/distributions_nidhi_docph",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "c6d14326-da9e-4405-adf2-15b3615647e5",
+        "title": "Documents Ph",
+        "landingPage": "https://github.com/healthfacts/distributions_nidhi_docph",
+        "contactPoint": "National Institute for Health and Disability Insurance, Directorate Research, Development & Quality, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "rdq@riziv-inami.fgov.be"
+    }
+}
