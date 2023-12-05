@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "b4dbb79d-cec6-d7c6-2a96-883149e0accc",
+    "title": "Documents Ph (2005)",
+    "description": "The documents PH include pharmaceutical reimbursements delivered by the hospital pharmacies to hospitalised or ambulatory patients, broken down by hospital, reimbursement category or pseudo-codes and CNK product code (unique national code).",
+    "publisher": "National Institute for Health and Disability Insurance",
+    "downloadURL": "https://github.com/healthfacts/distributions_nidhi_pharma_docph/blob/main/nidhi_pharma_docph_2005_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_nidhi_pharma_docph/blob/main/nidhi_pharma_docph_2005_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 122319530,
+    "modificationDate": "2023-11-22 17:04:12",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://github.com/healthfacts/distributions_nidhi_docph",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "c6d14326-da9e-4405-adf2-15b3615647e5",
+        "title": "Documents related to pharmaceutical deliveries in Belgian hospitals reimbursed by the National Institute for Health and Disability Insurance",
+        "landingPage": "https://github.com/healthfacts/distributions_nidhi_docph",
+        "contactPoint": "National Institute for Health and Disability Insurance, Directorate Research, Development & Quality, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "rdq@riziv-inami.fgov.be"
+    }
+}
